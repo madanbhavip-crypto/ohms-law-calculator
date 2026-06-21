@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ohm's Law Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>⚡ Ohm's Law Calculator</h1>
+  <p>V = I × R</p>
+
+  <label>Voltage (V): </label>
+  <input type="number" id="voltage" placeholder="leave empty if unknown">
+  <br><br>
+
+  <label>Current (I): </label>
+  <input type="number" id="current" placeholder="leave empty if unknown">
+  <br><br>
+
+  <label>Resistance (R): </label>
+  <input type="number" id="resistance" placeholder="leave empty if unknown">
+  <br><br>
+
+  <button onclick="calculate()">Calculate</button>
+
+  <h2 id="result"></h2>
+
+  <script src="script.js"></script>
+</body>
+</html>
