@@ -10,7 +10,7 @@ Built with HTML, CSS, and JavaScript — no frameworks, no hardware, just code.
 3. Click Calculate
 
 ## Live Demo
-(we'll add this link after deploying)
+👉 https://madanbhavip-crypto.github.io/ohms-law-calculator/
 
 ## What I learned
 - Basic DOM manipulation in JavaScript
